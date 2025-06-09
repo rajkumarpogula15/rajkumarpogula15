@@ -27,9 +27,9 @@ I’m an engineering student at **JNTUHUCEJ** passionate about building technolo
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn URL]  
-- GitHub: [Your GitHub URL]  
-- Email: [Your Email]
+- LinkedIn: https://www.linkedin.com/in/rajkumar-pogula/
+- GitHub:https://github.com/rajkumarpogula15/rajkumarpogula15
+- Email:rajkumarpogula22@gamil.com
 
 ---
 
