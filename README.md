@@ -59,11 +59,15 @@ I’m a tech-driven engineering student at **JNTUHUCEJ**, passionate about turni
 
 ## 📌 Projects
 
+- 🔗 [Tech Event Management](https://github.com/rajkumarpogula15/event-management)  
+  A platform for event planning, vendor booking, and seamless payment handling.
+
+
 - 🔗 [NeoLearn - LMS Platform](https://github.com/rajkumarpogula15/neolearn)  
   An interactive LMS for collaborative learning with quizzes, video lectures, and assignments.
 
-- 🔗 [Event Management System](https://github.com/rajkumarpogula15/event-management)  
-  A platform for event planning, vendor booking, and seamless payment handling.
+- 🔗 [GearPoint](https://github.com/rajkumarpogula15/gearpoint)  
+  An Online Bike Store where you can buy bikes and bike accesories
 
 ---
 
