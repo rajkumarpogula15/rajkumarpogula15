@@ -66,7 +66,7 @@ I’m a tech-driven engineering student at **JNTUHUCEJ**, passionate about turni
 - 🔗 [NeoLearn - LMS Platform](https://github.com/rajkumarpogula15/neolearn)  
   An interactive LMS for collaborative learning with quizzes, video lectures, and assignments.
 
-- 🔗 [GearPoint](https://github.com/rajkumarpogula15/gearpoint)  
+- 🔗 [GearPoint](https://github.com/rajkumarpogula15/Gear-Point)  
   An Online Bike Store where you can buy bikes and bike accesories
 
 ---
