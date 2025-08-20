@@ -1,58 +1,48 @@
 # Hi, I'm Rajkumar Pogula 👋
 
-I’m a tech-driven engineering student at **JNTUHUCEJ**, passionate about turning ideas into impactful digital solutions.
+I’m an engineering student at **JNTUHUCEJ**, passionate about building impactful digital solutions and solving real-world problems through technology.  
+With a strong foundation in **Software Development, Full-Stack Web Development, Data Engineering, and AI/ML**, I’m constantly learning and adapting to stay ahead in the fast-paced tech industry.  
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Pursuing Engineering with a focus on software development  
-- 💻 Skilled in full-stack web development using the **MERN stack**  
-- 🚀 Currently working on projects like **Learning Management Systems (LMS)** and **Event Management Platforms**  
-- 🤖 Exploring AI, DevOps, and strengthening my problem-solving skills through DSA  
-- 🎯 Goal: Build impactful applications that empower users and simplify everyday tasks
+- 🎓 Final-year Engineering student (CSE)  
+- 💻 Skilled in **Full-Stack Web Development (MERN Stack)**, **Java DSA**, and **C Programming**  
+- 🤖 Exploring **AI, Machine Learning, and DevOps**  
+- 🧠 Strong in **Problem Solving & Adaptability**  
+- 🎯 Goal: To grow as a **Software Developer / Full-Stack Engineer / Data Engineer / AI Engineer**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://react.dev/" title="React">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  </a>
-  <a href="https://nodejs.org/" title="Node.js">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  </a>
-  <a href="https://expressjs.com/" title="Express.js">
-    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  </a>
-  <a href="https://tailwindcss.com/" title="Tailwind CSS">
-    <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  </a>
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=hackerrank&logoColor=white" alt="DSA" />
 </p>
 
 <p align="center">
-  <a href="https://www.mysql.com/" title="MySQL">
-    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </a>
-  <a href="https://www.mongodb.com/" title="MongoDB">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  </a>
+  <!-- Web Dev -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 <p align="center">
-  <a href="https://git-scm.com/" title="Git">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://github.com/" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://code.visualstudio.com/" title="VS Code">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  </a>
-  <a href="https://chat.openai.com/" title="ChatGPT">
-    <img src="https://img.shields.io/badge/ChatGPT-03C75A?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  </a>
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+<p align="center">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
@@ -60,32 +50,22 @@ I’m a tech-driven engineering student at **JNTUHUCEJ**, passionate about turni
 ## 📌 Projects
 
 - 🔗 [Tech Event Management](https://github.com/rajkumarpogula15/event-management)  
-  A platform for event planning, vendor booking, and seamless payment handling.
-
+  Platform for event planning, vendor booking, and payment handling.
 
 - 🔗 [NeoLearn - LMS Platform](https://github.com/rajkumarpogula15/neolearn)  
-  An interactive LMS for collaborative learning with quizzes, video lectures, and assignments.
+  An interactive LMS with quizzes, video lectures, and assignments.
 
 - 🔗 [GearPoint](https://github.com/rajkumarpogula15/Gear-Point)  
-  An Online Bike Store where you can buy bikes and bike accesories
+  An online bike store for bikes and accessories.
 
 ---
 
-## 📬 Connect with Me
+## 🌟 Highlights
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rajkumar-pogula/)  
-- 🔗 [GitHub](https://github.com/rajkumarpogula15)  
-- 📧 Email: [rajkumarpogula22@gmail.com](mailto:rajkumarpogula22@gmail.com)
-
-<p align="center">
-  <a href="mailto:rajkumarpogula22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-  </a>
-</p>
-
----
-> ***"The best way to predict the future is to build it." — Alan Kay***
-
+- ✅ Strong foundation in **Java, C, and Data Structures & Algorithms**  
+- ✅ Built multiple **full-stack applications** with **MERN + MySQL/MongoDB**  
+- ✅ Quick learner with proven **adaptability** in new technologies  
+- ✅ Actively working on projects that bridge **academics and real-world needs**  
 
 ---
 
@@ -105,7 +85,12 @@ I’m a tech-driven engineering student at **JNTUHUCEJ**, passionate about turni
 
 ---
 
-## 🤝 Let’s Collaborate!
+## 📬 Connect with Me
 
-I'm open to internships, freelance projects, hackathons, and learning opportunities. Feel free to reach out!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rajkumar-pogula/)  
+- 🔗 [GitHub](https://github.com/rajkumarpogula15)  
+- 📧 [rajkumarpogula22@gmail.com](mailto:rajkumarpogula22@gmail.com)
 
+---
+
+> ***"The best way to predict the future is to build it." — Alan Kay***
