@@ -52,32 +52,10 @@ I’m always eager to <i>learn, adapt, and contribute</i> to impactful projects.
 
 ---
 
-## 📌 Projects  
-
-### 🚀 Featured Projects  
-<div>
-
-🔗 [**Tech Event Management**](https://github.com/rajkumarpogula15/event-management)  
-📌 Platform for **event planning, vendor booking, and payment handling**.  
-
----
-
-🔗 [**NeoLearn - LMS Platform**](https://github.com/rajkumarpogula15/neolearn)  
-📌 An interactive **LMS** with **quizzes, video lectures, and assignments**.  
-
----
-
-🔗 [**GearPoint**](https://github.com/rajkumarpogula15/Gear-Point)  
-📌 An online **bike store** for bikes and accessories.  
-
-</div>
-
----
-
 ## 🌟 Highlights  
 
 - ✨ Strong foundation in **Java, C, and Data Structures & Algorithms**  
-- 🚀 Built multiple **Full-Stack Applications** with **MERN + MySQL/MongoDB**  
+- 🚀 Built multiple **Full-Stack Applications** with **MERN**  
 - 🌱 Quick learner with strong ability to **adapt to new technologies**  
 - 💡 Building projects that connect **academic knowledge with real-world applications**  
 
