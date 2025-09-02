@@ -71,7 +71,13 @@ I’m always eager to <i>learn, adapt, and contribute</i> to impactful projects.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumarpogula15&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rajkumarpogula15&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
 ---
+
 
 ## 📬 Connect with Me  
 
